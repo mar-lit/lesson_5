@@ -10,7 +10,7 @@
 
 @font-face {
 	font-family: "Lato";
-	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+	src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
 	font-display: swap;
 	font-weight: 700;
 	font-style: normal;
